@@ -1,0 +1,10 @@
+Test run for /home/paulo/codenation/csharp-5/Source.TestSubmission/bin/Debug/netcoreapp2.2/Source.TestSubmission.dll(.NETCoreApp,Version=v2.2)
+Microsoft (R) Test Execution Command Line Tool Version 16.0.1
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+Starting test execution, please wait...
+Results File: /home/paulo/codenation/csharp-5/Source.TestSubmission/results.xml
+
+Total tests: 7. Passed: 7. Failed: 0. Skipped: 0.
+Test Run Successful.
+Test execution time: 2.4265 Seconds
